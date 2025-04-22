@@ -1,0 +1,141 @@
+    1  git clone /github.com/tauriqperson/Assignment-1_HTM
+    2  git clone /github.com/tauriqperson/github.io
+    3  git clone https://github.com/tauriqperson/tauriqperson.github.io
+    4  git clone https://github.com/tauriqperson/tauriqperson.github.io
+    5  git clone https://github.com/tauriqperson/tauriqperson.github.io
+    6  git clone https://github.com/tauriqperson/Assignment-1_HTML
+    7  cd Assignment-1_HTML
+    8  echo "Hello World" > index.html
+    9  git add --all
+   10  git commit -m "Initial commit"
+   11  echo "Hello World" > index.html
+   12  git add --all
+   13  git commit -m "Initial commit"
+   14  git push -u origin main
+   15  git config --global user.name "tauriqperson"
+   16  git commit -m "Initial commit"
+   17  git config --global user.name "tauriqperson"
+   18  git commit -m "Initial commit"
+   19  git commit -m "Initial commit"
+   20  git push -u origin main
+   21  git clone https://github.com/tauriqperson/tauriqperson.github.io
+   22  cd username.github.io
+   23  echo "Hello World" > index.html
+   24  echo "Hello World" > index.html
+   25  git add --all
+   26  git commit -m "Initial commit"
+   27  git push -u origin main
+   28  git rm --cached tauriqperson.github.io
+   29  git - force rm --cached tauriqperson.github.io
+   30  git - f rm --cached tauriqperson.github.io
+   31  git config --global user.name "mastertkariem@gmail.com"
+   32  git commit -m "Initial commit"
+   33  git config --global user.name "tauriqperson"
+   34  git config --global user.email "mastertkariem@gmail.com"
+   35  git commit -m "Initial commit"
+   36  git push -u origin main
+   37  ls
+   38  cd users
+   39  cd ~/documents
+   40  cd  
+   41    
+   42  cd~/documents
+   43  cd ~/documents/IMI\ JAVA\ BOOTCAMP/
+   44  mkdir git-basic-exercises
+   45  li -a
+   46  ls -a
+   47  cd git-basic-exercises/
+   48  ls -a
+   49  git init
+   50  ls - a
+   51  ls -a
+   52  .git/
+   53  touch README.md
+   54  ls -a
+   55  git log
+   56  git add README.md 
+   57  git status
+   58  git log
+   59  git status 
+   60  git commit -m "initial commit"
+   61  git log
+   62  nano README.md 
+   63  cat README.md 
+   64  git status
+   65  git commit -m "second commit"
+   66  git status
+   67  git log
+   68  git commit -m "second commit"
+   69  git add -m "second commit"
+   70  git commit -m "second commit"
+   71  git commit -a "second commit"
+   72  git add commit -m "second commit"
+   73  cat README.md 
+   74  git log
+   75  git status
+   76  git add README.md 
+   77  git add commit -m "second commit"
+   78  git add commit -m "second commit"
+   79  git commit -m "second commit"
+   80  git status
+   81  git log
+   82  nano README.md 
+   83  git commit -m "third commit"
+   84  git add README.md 
+   85  git commit -m "third commit"
+   86  git log
+   87  git status
+   88  git log
+   89  git checkout b4c630c9bda34e07a49f7bd8a2c3a265723a0fa4
+   90  cat README.md 
+   91  git checkout main
+   92  git switch - main
+   93  git switch -main
+   94  git switch 
+   95  git checkout
+   96  nano README.md 
+   97  git checkout
+   98  git checkout main
+   99  git checkout 
+  100  get checkout -,
+  101  get checkout -m
+  102  get checkout main
+  103  git checkout main
+  104  exit
+  105  cd ~/documents/IMI\ JAVA\ BOOTCAMP/git-basic-exercises/
+  106  git switch main
+  107  git checkout main
+  108  git log
+  109  git switch - initial commit
+  110  git branch
+  111  git switch master
+  112  git status
+  113  git log
+  114  git branch
+  115  git branch
+  116  git checkout -b milkshake-flavours
+  117  git branch
+  118  nano milkshakes.md
+  119  git status
+  120  git add milkshakes.md 
+  121  git commit -m "added intial flavours"
+  122  git log
+  123  cd ~/Documents/IMI\ JAVA\ BOOTCAMP/
+  124  cd git-basic-exercises/
+  125  nano milkshakes.md 
+  126  git checkout master
+  127  git branch
+  128  git checkout milkshake-flavours 
+  129  git checkout master 
+  130  git log
+  131  git checkout milkshake-flavours 
+  132  git log
+  133  cd ~/Documents/IMI\ JAVA\ BOOTCAMP/
+  134  git checkout master
+  135  cd git-basic-exercises/
+  136  git checkout master]
+  137  git checkout master
+  138  git branch history
+  139  git branch
+  140  git log
+  141  history > history.txt
